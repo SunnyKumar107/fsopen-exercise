@@ -1,0 +1,29 @@
+.contact_list {
+  display: flex;
+  align-items: center;
+}
+
+.contact_list button {
+  border: none;
+  margin: 0 10px;
+  padding: 4px 8px;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:active {
+  background: blue;
+  color: white;
+}
+
+.message {
+  border: 3px solid blue;
+  background-color: gray;
+  color: blue;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 0 1.5em;
+  margin: 1em 0;
+}
