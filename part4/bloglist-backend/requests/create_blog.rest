@@ -1,0 +1,10 @@
+POST   http://localhost:3003/api/blogs/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InN1bm55QDEyMyIsImlkIjoiNjVlYWNiN2U4ZTdkNzI3ZDQxNzU4MzhjIiwiaWF0IjoxNzEwMTY5MzA5LCJleHAiOjE3MTAxNzI5MDl9.zyJtjQRJWdlKLsy7xFqAPXazqvqVoyoU6SC5ZUvvKz
+
+{
+    "title": "Things I don't know as of 2018.",
+    "author": "Dan Abramov",
+    "url": "jesse@mail.com"
+}
+
