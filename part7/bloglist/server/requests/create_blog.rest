@@ -1,0 +1,10 @@
+DELETE    http://localhost:3003/api/blogs/65f324335fb9e17a6610bcf7
+# Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFzaW1fMTMiLCJpZCI6IjY1ZjMyMjlmNWZiOWUxN2E2NjEwYmNlNCIsImlhdCI6MTcxMTQ3MjY3NCwiZXhwIjoxNzExNDc2Mjc0fQ.dz45iI4CoPmsNw4T2F5sVEKO5U2b_jE-G71PdJtdetM
+
+# {
+#     "title": "Things I don't know as of 2018.",
+#     "author": "Dan Abramov",
+#     "url": "jesse@mail.com"
+# }
+

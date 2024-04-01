@@ -1,0 +1,6 @@
+POST http://localhost:3003/api/blogs/65f324335fb9e17a6610bcf7/comments
+Content-Type: application/json
+
+{
+    "comment": "Dan Abramov is a good Author."
+}
